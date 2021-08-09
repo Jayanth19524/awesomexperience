@@ -20,7 +20,7 @@ PORT = 5000
 CONNECTION_URL= mongodburl
 
 ```bash
-  cd server
+  npm install
 ```
 ```bash
   npm start
@@ -43,3 +43,15 @@ first install all dependencies in package.json
 ## Demo
   
 https://awesome-experience.netlify.app
+
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`PORT`
+
+`CONNECTION_URL`
+
+  
