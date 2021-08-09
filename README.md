@@ -53,4 +53,7 @@ To run this project, you will need to add the following environment variables to
 
 `CONNECTION_URL`
 
+#some info
+because the server is deployed on heroku the speed of the application might be slow if the internet connection is slow 
+Thank you
   
