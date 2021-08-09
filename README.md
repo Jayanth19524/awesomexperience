@@ -1,8 +1,7 @@
 
-# Project Title
+# AWESOMEXPERIENCE
 
-A brief description of what this project does and who it's for
-
+MERN application with crud functionality and authorization with google Oauth and JSON web token .
 
 ## Authors
 
