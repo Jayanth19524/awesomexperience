@@ -1,7 +1,7 @@
 
 # AWESOMEXPERIENCE
 
-MERN application with crud functionality and authorization with google Oauth and JSON web token .
+MERN application with crud functionality and authorization with google Oauth and JSON web token . A social media apps where people can like other peoples posts and create posts
 
 ## Authors
 
